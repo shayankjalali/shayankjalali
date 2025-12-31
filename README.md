@@ -24,4 +24,4 @@ Last summer I interned at Evertz Microsystems doing accounting work under the CF
 
 ### Let's connect
 
-[LinkedIn](https://linkedin.com/in/shayanjalali) · [Email](mailto:shayan.jalali@uwaterloo.ca)
+[LinkedIn](https://linkedin.com/in/shayanjalali) · [Email](mailto:shayan.jalali@gmail.com)
