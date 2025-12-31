@@ -4,7 +4,7 @@ First-year CFM student at Waterloo. I like building things that sit at the inter
 
 I first got into tech and finance through [The Knowledge Society (TKS)](https://tks.world/) in high school, where I built a blockchain voting DApp on Ethereum and started exploring how emerging tech could disrupt traditional systems. Since then, my interests have developed into quantitative finance and market microstructure.
 
-Last summer I interned at Evertz Microsystems doing accounting work under the CFO — learned a lot about how money actually moves through a company.
+Last summer I interned at Evertz Microsystems doing accounting work under the CFO, learning a lot about how money actually moves through a company.
 
 ### What I've been working on
 
