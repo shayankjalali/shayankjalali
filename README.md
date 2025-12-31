@@ -10,7 +10,7 @@ Last summer I interned at Evertz Microsystems doing accounting work under the CF
 
 **[DARPOL](https://darpol.ca)** — Detects potential institutional trading activity by analyzing volume spikes and VWAP deviations. Built with Python, Flask, and Chart.js. Deployed and live.
 
-**Market Meet** — Portfolio optimizer I built with my team for our CFM class competition. Tracks S&P 500 + TSX benchmark using covariance-based optimization. Hit 0.49% tracking error.
+**Market Meet** — Portfolio optimizer I built with my team for our CFM class competition. Tracks S&P 500 + TSX benchmark using covariance-based optimization. Hit 0.49% tracking error during the competition.
 
 **Congress Member Portfolio Analysis** — Dug into 30+ Congress members' stock holdings to see if their returns were skill or luck. Lots of Excel, statistics, and skepticism.
 
